@@ -16,4 +16,4 @@
 13. 請作完上述後，將git graph的線圖截圖，給予檔名為answer.png，並一併於main分支內進行add、commit並push至伺服器倉庫中即可
 
 
-作完上述動作後，別忘記至<https://docs.google.com/spreadsheets/d/106OOVTaAWRtVoJ7a8mYQmPtD_wjm4Vwp/edit#gid=2053224699>確認「基本資料」分頁的個人github帳戶是否有填寫自己帳戶的網址，以及在「作業」分頁的作業1欄位下，填入伺服器端自己的倉庫網址。沒寫明將會無法評分，敬請注意。
+作完上述動作後，別忘記至<https://docs.google.com/spreadsheets/d/1cnw2MRstRDVunhqqXXb23-gAGc2-DVmGp-CjX9G7UoU/edit?usp=sharing>確認「基本資料」分頁的個人github帳戶是否有填寫自己帳戶的網址，以及在「作業」分頁的作業1欄位下，填入伺服器端自己的倉庫網址。沒寫明將會無法評分，敬請注意。
